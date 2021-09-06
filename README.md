@@ -8,4 +8,4 @@ Pathfinding Visualizer is a visualizing tool that shows how different pathfindin
 2. Draw Walls or Choose a Maze
 3. Press Start
 
-ENJOY PATHFINDING VISUALIZER!!
+## ENJOY PATHFINDING VISUALIZER!!
